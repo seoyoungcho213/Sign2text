@@ -1,9 +1,10 @@
 # MotionDetector
 
 ### Pre-requisites:
-pip install opencv-python==4.6.0.66 (works)
-
-pip3 install pyautogui
+opencv
+numpy
+math
+pyautogui
 
 ## Setting up the environment and packages:
 
@@ -12,4 +13,11 @@ conda create -n "handgesture"
 conda activate handgesture
 
 # Installing packages:
-conda install opencv-python==4.6.0.6 (not working)
+conda install numpy
+conda install math
+
+conda install pyautogui (not working)
+pip install autogui (working)
+
+conda install opencv (not working)
+pip install opencv-python working
