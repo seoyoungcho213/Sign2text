@@ -1,6 +1,6 @@
 # MotionDetector
 
-### Pre-requisites:
+### Dependencies:
 opencv
 numpy
 math
