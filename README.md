@@ -1,6 +1,6 @@
 # MotionDetector
 
-**MotionDetector** is not only for detecting motion from the webcam. It also recognizes and interprets hand gestures.
+MotionDetector is not only for detecting motion from the webcam. It also recognizes and interprets hand gestures.
 
 ## Goal features:
 
