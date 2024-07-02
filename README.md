@@ -1,6 +1,6 @@
-# MotionDetector
+# Sign2text
 
-MotionDetector is not only for detecting motion from the webcam. It also recognizes and interprets hand gestures.
+Sign2text detects hand motion from the webcam, then translates sign language to text.
 
 ## Goal features:
 
